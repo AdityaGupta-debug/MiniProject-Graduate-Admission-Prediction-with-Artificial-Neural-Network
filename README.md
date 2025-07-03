@@ -70,13 +70,3 @@ The model was evaluated using metrics like **MSE**, **MAE**, and **R² Score**. 
 - **R² Score:** **0.77** (77%)
 
 ✅ This means the model explains **77% of the variance** in the graduate admission outcomes — a strong performance for a regression task with limited features.
-
----
-
-
----
-
-## 💻 Requirements
-
-Add these to `requirements.txt`:
-
