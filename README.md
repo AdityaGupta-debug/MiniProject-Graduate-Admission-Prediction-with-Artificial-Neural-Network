@@ -35,7 +35,7 @@ This involved plotting various charts such as:
 - Histograms for feature distributions  
 - Correlation heatmap  
 - Scatter plots between CGPA, GRE, TOEFL vs. Chance of Admit  
-- Boxplots to visualize effect of research and SOP/LOR on admissions  
+- Histplots to visualize effect of research and SOP/LOR on admissions  
 
 These visual insights helped in understanding the data trends and informed feature selection for the ANN model.
 
