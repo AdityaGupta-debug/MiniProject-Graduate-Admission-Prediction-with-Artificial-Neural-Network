@@ -73,12 +73,6 @@ The model was evaluated using metrics like **MSE**, **MAE**, and **R² Score**. 
 
 ---
 
-## 📌 Future Improvements
-
-- Perform hyperparameter tuning using GridSearchCV or RandomizedSearch
-- Try dropout or batch normalization to improve generalization
-- Deploy the model as a web app using Streamlit or Flask
-- Experiment with ensemble models or XGBoost for comparison
 
 ---
 
